@@ -10,6 +10,8 @@ Please try to be as detailed as possible when submitting a bug report. Please pr
 * When the bug happened
 * What command you were using (if applicable)
 
+Make sure the bug hasn't been reported already. If still you have anything to add about it, then leave a comment on the issue.
+
 ## Submitting Feature Requests
 Feature requests must be related to the bot; any feature requests that are more about the Discord guild in general should be submitted using the `!suggestion` command on Discord, as any posted here will be removed.  
 
